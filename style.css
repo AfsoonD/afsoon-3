@@ -1,0 +1,143 @@
+body{
+    text-align: center;
+    
+}
+.menue{
+    Position:Fixed;
+    background: yellow;
+    width: 100%;
+    margin-top: 0px;
+    z-index:60;
+    }
+    
+   
+
+
+.Links{
+    float: right;
+    font-size: 20px;
+    font-family: monospace;
+    display: inline;
+    color: black;
+    padding-left: 30px;
+    padding-right: 80px;
+    
+}
+
+.Links:hover  {background-color: aliceblue;
+             font-size:25px;}
+
+
+#Afsoon{
+    
+     background: linear-gradient(#5138a8 0%,#faf897 100%);
+    height:auto;
+}
+
+
+#Bio{
+     background: linear-gradient(#faf897 0%, #a7e0a1 30%, #5138a8 70%);
+     height: 1600px;
+}
+
+h1{font-size: 60px;
+   font-family backface-visibility: visible;
+color:black;}
+
+
+h2{font-size: 35px;
+   font-family: cursive ;
+color:black;}
+
+
+
+h3{font-size: 25px;
+   font-family: sans-serif;
+color:black;}
+
+
+h4{font-size: 40px;
+   font-family: sans-serif;
+color:black;}
+
+
+h5{font-size: 25px;
+   font-family: sans-serif;
+color:black;}
+
+  h6{font-size: 40px;
+   font-family: sans-serif;
+color:black;
+    }
+
+h7{font-size: 25px;
+   font-family: sans-serif;
+color:black;}
+
+h8{font-size: 50px;
+   font-family: sans-serif;
+color:black;
+    }
+
+
+.line{
+   width: 550px;
+    height: 5px;
+    background-color:black;
+        margin:auto;
+  
+}
+
+#img1{ 
+    height: 300px;
+    width: 300px;
+    border-style: double;
+    border-width: thick;
+    border-color: blue;
+
+}
+
+
+#img2{ 
+    height: 300px;
+    width: 600px;
+    border-style: double;
+    border-width: thick;
+    border-color: blue;
+    
+
+  
+
+}
+#img3{ 
+    height: 300px;
+    width: 600px;
+    border-style: double;
+    border-width: thick;
+    border-color: blue;
+    
+    }
+
+p{
+  margin-left: 450px;
+margin-right: 450px;  
+    font-size: 20px;
+}
+ p1{ font-size: 40px;
+   font-family backface-visibility: visible;
+color:black;
+}
+
+.Douglas{
+         font-size: 20px;
+         color:black;}
+.Douglas:hover {background-color: darkslateblue;
+               font-size: 30px;}
+
+
+
+#Contact{ background: linear-gradient(#5138a8 0%,#faf897 100%);
+    height:800;
+    
+    
+}
